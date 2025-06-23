@@ -1,0 +1,31 @@
+body{
+    background-color: azure;
+}
+#green{
+    background-color: hsla(120, 82%, 37%, 0.89);
+}
+#green:hover{
+    background-color: hsla(120, 68%, 37%, 0.89);
+}
+#red{
+    background-color: hsl(0, 88%, 51%);
+}
+#red:hover{
+    background-color: hsl(0, 68%, 51%);
+}
+#blue{
+    background-color: hsl(219, 98%, 49%);
+}
+#blue:hover {
+    background-color: hsl(240, 100%, 59%);
+}
+
+button {
+    border-radius: 10px;
+    padding: 15px,30px;
+    text-align: center;
+    margin: 10px;
+    width:100px;
+    height: 45px;
+    cursor: pointer;
+}
